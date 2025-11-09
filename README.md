@@ -1,7 +1,7 @@
 # Abubakar Yinusa Olushola
 
 🎓 Software Engineering Student at Al-Hikmah University  
-💻 Aspiring Full Stack Developer | Backend Engineer-in-Training  
+💻 Aspiring Full Stack Developer | Backend Engineer
 🧠 Currently mastering Next.js, Node.js, Spring Boot, MongoDB & PostgreSQL  
 🌱 Exploring AI, machine learning, and system design
 
