@@ -1,39 +1,44 @@
 # Abubakar Yinusa
 
-Backend-focused full-stack developer building APIs, data systems, and AI integrations.
+I like building things that work quietly in the background — payment systems, deployment pipelines, data infrastructure. Mostly backend. Sometimes the thing that connects the backend to everything else.
 
-Currently contributing to a cybersecurity SaaS platform (Chari Nexus) — 
-designing RESTful APIs, implementing auth/RBAC, and migrating to PostgreSQL with Prisma.
+Based in Nigeria. Trying to break into big tech.
 
 ---
 
 ## Stack
 
-**Backend:** Node.js, Express.js, TypeScript, FastAPI  
-**Frontend:** Next.js, React, Tailwind CSS  
-**Databases:** PostgreSQL, MongoDB  
-**AI/ML:** RAG pipelines, Ollama, LLM API integration, PyTorch, TensorFlow  
+![Node.js](https://skillicons.dev/icons?i=nodejs,express,ts,nextjs,react,tailwind,postgres,mongodb,redis,py,go,docker,git,vercel)
+
+**Backend:** Node.js, Express.js, TypeScript, FastAPI
+**Frontend:** Next.js, React, Tailwind CSS
+**Databases:** PostgreSQL, MongoDB, Redis
+**AI/ML:** RAG pipelines, Ollama, LLM API integration, PyTorch, TensorFlow
 **Tools:** Prisma ORM, JWT, OAuth, Git, Vercel, Railway
 
 ---
 
 ## Projects
 
-**[Trade Tracker](https://trade-tracker-1yxm.vercel.app)** — Full-stack trading journal with PnL analytics, JWT auth, 
-and PostgreSQL backend. Live with real users.
+**[hooklens](https://github.com/abubakar2906/hooklens)** — Unified webhook gateway for African payment providers. One endpoint, consistent format, events stored and replayable.
 
-**[Course Rep Tracker](https://course-repp-tracker.vercel.app)** — Student management system with Google OAuth, 
-role-based access control, and CRUD APIs for academic records.
+**[Trade Tracker](https://trade-tracker-1yxm.vercel.app)** — Full-stack trading journal with PnL analytics, JWT auth, and PostgreSQL backend. Live with real users.
 
-**[AI Resume Analyzer](https://calibr-jade.vercel.app)** — Resume analysis tool using LLM API integration.
+**[Course Rep Tracker](https://course-rep-tracker.vercel.app)** — Student management system with Google OAuth, role-based access control, and CRUD APIs for academic records.
+
+**[RAG System](https://github.com/abubakar2906/RAG-System-Project)** — Local PDF ingestion for offline study. Upload lecture notes, ask questions, get answers — no cloud.
+
+**[Distributed Rate Limiter](https://github.com/abubakar2906/rate-limiter)** — Sliding-window rate limiting in Go, backed by Redis. First project in Go, written up on Medium.
 
 ---
 
 ## Currently
 
-- Backend modules at Chari Nexus (vulnerability management, compliance, fraud detection)  
-- AWS Cloud Practitioner certification in progress  
 - Open to remote backend / AI integration roles
+- Writing about what I build — see [Medium](https://medium.com/@abubakaryinusa404)
 
 📧 abubakaryinusa404@gmail.com
 
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=abubakar2906&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abubakar's GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar2906&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
