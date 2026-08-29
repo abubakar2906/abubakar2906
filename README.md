@@ -20,11 +20,17 @@ Based in Nigeria. Trying to break into big tech.
 
 ## Projects
 
+**[Conductor Labs](https://conductorlabslanding.vercel.app/)** — Release control dashboard. Connects to a GitHub repo, watches the branch, and answers one question: are you safe to deploy?
+
 **[hooklens](https://github.com/abubakar2906/hooklens)** — Unified webhook gateway for African payment providers. One endpoint, consistent format, events stored and replayable.
 
 **[Trade Tracker](https://trade-tracker-1yxm.vercel.app)** — Full-stack trading journal with PnL analytics, JWT auth, and PostgreSQL backend. Live with real users.
 
 **[Course Rep Tracker](https://course-rep-tracker.vercel.app)** — Student management system with Google OAuth, role-based access control, and CRUD APIs for academic records.
+
+**[Payment Playground](https://github.com/abubakar2906/payment-playground)** — End-to-end payment flow simulation: intent creation, double-entry ledger, settlement batching, FX locking, compliance screening.
+
+**[ELT Pipeline](https://github.com/abubakar2906/Data-Engineer-Project-ELT-Pipeline)** — Extract-load-transform pipeline with schema evolution, incremental loading, and data quality checks.
 
 **[RAG System](https://github.com/abubakar2906/RAG-System-Project)** — Local PDF ingestion for offline study. Upload lecture notes, ask questions, get answers — no cloud.
 
